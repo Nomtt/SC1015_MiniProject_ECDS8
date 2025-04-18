@@ -1,7 +1,7 @@
 # Welcome to Thyroid-Cancer-Analysis!
 
 ##
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) with focuses on Thyroid Cancer Recurrence risk. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) with focuses on Thyroid Cancer Recurrence from (to insert the link of dataset source). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction] ()
 2. [Data Visualization]
