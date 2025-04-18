@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @nomtt - Machine Learning, Data Resampling 
+- @nomtt - Machine Learning, Data Splitting 
 - @clairewanni - Data Visualization, Data Extraction 
 
 ## Problem Statement
