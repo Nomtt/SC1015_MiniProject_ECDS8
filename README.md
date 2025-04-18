@@ -15,7 +15,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - @ - Data Visualization, Data Extraction 
 
 ## Problem Statement
-Differentiated Thyroid Cancer, which arises from the follicular cells of the thyroid gland, is the most common form of thyroid cancer, accounting for over 90% of all cases. Notably, the challenge faced here is its unpredictability. Despite successful treatment, up to 30% of patients experience recurrence. Currently, recurrence risk is assessed based on physician experience and generalized clinical guidelines. While these methods are helpful, they may overlook the nuanced, individual-level factors that influence recurrence. 
+Differentiated Thyroid Cancer is the most common form of thyroid cancer, accounting for over 90% of all cases. Notably, the challenge faced here is its unpredictability. Despite successful treatment, up to 30% of patients experience recurrence. Currently, recurrence risk is assessed based on physician experience and generalized clinical guidelines. While these methods are helpful, they may overlook the nuanced, individual-level factors that influence recurrence. 
 
 - Are we able to predict recurrence of Thyroid Cancer based on individuals’ physical attributes?
 - Which model would be the best to predict it?
