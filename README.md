@@ -7,8 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Data Visualization](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/23eb20cbfd53615f50a21e1fc88cb0e4a38094de/exploratoryDataAnalysis.ipynb)
 4. [Data Splitting](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/1d0634fbbfdcc476c732e25901de144b5f78c948/dataPrepFor_ML.ipynb)
 5. [ML: Decision Tree Classification]((https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/94d41087e1d7ca026fdf5100471811b2efa495c5/decisionTreeRevised.ipynb))
-6. [ML: Random Forest Classification and K-Clustering](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/1d0634fbbfdcc476c732e25901de144b5f78c948/randomForestKClustering.ipynb)
-  
+6. [ML: Random Forest Classification and K-Clustering](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/ca7b7bbdf3751c02822794d084e452e18548cf7f/randomForestKClustering.ipynb) 
 ## Contributors
 - Claire Chia Wan Ni (CLAI0011@e.ntu.edu.sg, @clairewanni ): 
   - Exploratory Data Analysis
