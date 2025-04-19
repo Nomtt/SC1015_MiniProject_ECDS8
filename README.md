@@ -10,12 +10,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 6. [ML: Random Forest Classification and K-Clustering] - Link
   
 ## Contributors
-- Claire Chia Wan Ni (CLAI0011@e.ntu.edu.sg, @clairewanni): 
+- Claire Chia Wan Ni (CLAI0011@e.ntu.edu.sg, @clairewanni ): 
   - Exploratory Data Analysis
   - Data Cleaning
   - Insights
   
-- Narmandakh Nomt (nomt001@e.ntu.edu.sg, @nomtt):
+- Narmandakh Nomt (nomt001@e.ntu.edu.sg, @nomtt ):
   - Machine Learning
   - Data Splitting
   - Recommendations
