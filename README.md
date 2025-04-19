@@ -62,3 +62,8 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence 
 - https://www.geeksforgeeks.org/random-forest-regression-in-python/
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://www.kaggle.com/datasets/joebeachcapital/differentiated-thyroid-cancer-recurrence
+- https://www.cancerresearchuk.org/about-cancer/thyroid-cancer/stages-types/types#:~:text=Differentiated%20thyroid%20cancer,follicular%20and%20oncocytic%20thyroid%20cancer.
+- https://www.mayoclinic.org/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
+- https://online.hbs.edu/blog/post/data-visualization-techniques
+- https://mode.com/blog/violin-plot-examples
