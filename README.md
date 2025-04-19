@@ -48,7 +48,7 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - Handling a medical dataset (Thyroid Cancer data) that includes a mix of numerical and complex categorical variables.
 - Visualising and finding relationships between different variables
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
-- Observed how adding more features improves accuracy but risks overfitting with our 4 datasets built
+- Observed how adding more features improves accuracy but risks overfitting with 4 different models with increasing feature complexity (X, X2, X3, X4)
 - Understanding and usage of Accuracy and Hyperparameters
 - New evaluation Metrics for KClustering, for instance, KMeans Inertia, Silhouette Score and Elbow Methods(WCSS) 
 
