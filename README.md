@@ -45,10 +45,12 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98.95% eventually.
 
 ## What did we learn from this project?
-- Visualising and managing categorical data
+- Handling a medical dataset (Thyroid Cancer data) that includes a mix of numerical and complex categorical variables.
+- Visualising and finding relationships between different variables
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
+- Observed how adding more features improves accuracy but risks overfitting with our 4 datasets built
 - Understanding and usage of Accuracy and Hyperparameters
-- Evaluation Metrics for KClustering such as KMeans Inertia, Silhouette Score and Elbow Method(WCSS) 
+- New evaluation Metrics for KClustering, for instance, KMeans Inertia, Silhouette Score and Elbow Methods(WCSS) 
 
 ## Future Improvements
 - Improve data balance
