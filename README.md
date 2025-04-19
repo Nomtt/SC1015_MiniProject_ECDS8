@@ -1,10 +1,9 @@
 # Differentiated Thyroid Cancer Analysis
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Differentiated Thyroid Cancer Recurrence from: https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence . For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Differentiated Thyroid Cancer Recurrence from UCI Machine Learning Repository. For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preparations]
-  - dataPrepFor_EDA.ipynb
+1. [Data Preparations] - Link
 3. [Data Visualization] - Link
 4. [Data Splitting] - Link
 5. [ML: Decision Tree Classification] - Link
