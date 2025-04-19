@@ -48,6 +48,7 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - Visualising and managing categorical data
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
 - Understanding and usage of Accuracy and Hyperparameters
+- Evaluation Metrics for KClustering method such as KMeans Inertia, Silhouette Score and Elbow Method(WCSS) 
 
 ## Future Improvements
 - Improve data balance
