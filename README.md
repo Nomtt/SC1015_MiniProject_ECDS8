@@ -42,7 +42,7 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 
 ## Conclusion
 - We were able to develop a predictive model for Differentiated Thyroid Cancer Recurrences using the Random Forest trained on Dataset X3 with tuned hyperparameters.
-- Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98% eventually.
+- Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98.95% eventually.
 
 ## What did we learn from this project?
 - Visualising and managing categorical data
