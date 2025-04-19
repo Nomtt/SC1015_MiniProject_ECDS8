@@ -41,7 +41,7 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - Although most patients were non-smokers, smokers consistently showed poorer recovery and higher recurrence rates, hence smoking as a lifestyle factor may warrant tighter follow-up treatments or additional counseling during and after treatment.
 
 ## Conclusion
-- We were able to develop a predictive model for Differentiated Thyroid Cancer Recurrences using the Random Forest trained on Dataset X3 with tuned hyperparameters.
+- We were able to develop a predictive machine learning model for Differentiated Thyroid Cancer Recurrences using the KClustering integrated with Random Forest Classifier with tuned hyperparameters trained on Dataset X3 .
 - Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98.95% eventually.
 
 ## What did we learn from this project?
