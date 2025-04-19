@@ -3,7 +3,7 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Differentiated Thyroid Cancer Recurrence from UCI Machine Learning Repository. For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preparations] - Link
+1. [Data Preparations](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/a17a532f13739210e216e0eb46531692fae59c41/dataPrepFor_EDA.ipynb)
 3. [Data Visualization] - Link
 4. [Data Splitting] - Link
 5. [ML: Decision Tree Classification] - Link
