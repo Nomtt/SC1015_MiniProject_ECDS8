@@ -22,7 +22,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Problem Definition
 
 ### Rationale
-Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes up over 90% of all cases. A key challenge is its unpredictability. Despite treatment, up to 30% of patients face recurrence. Current risk assessments rely on physician experience and generalized clinical guidelines, which may miss individual-specific factors affecting recurrence.
+Differentiated Thyroid Cancer (DTC) is the most common thyroid cancer type which makes up over 90% of the cases. A key challenge is its unpredictability. Despite successful treatment, up to 30% of patients face recurrence. Current risk assessments rely on physician experience and generalized clinical guidelines, which may miss individual-specific factors that are affecting recurrence.
 
 ### Problem Statement
 - Are we able to predict recurrence of Thyroid Cancer based on individuals’ physical attributes?
@@ -34,14 +34,14 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - K-means clustering
 
 ## Insights
-- Initial treatment response, is the most influential factor in likelihood of recurrence. if some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
-- Patients presenting with lymphatic spread (Adenopathy) or aggressive tumor types should be considered high-risk from the beginning, even before recurrence signs emerge.
-- Recurrence risk increases with age. Greater monitoring and intervention should be prioritized for older individuals, even if their initial diagnosis appears mild.
+- Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
 - While more females were diagnosed overall, males experienced more severe complications and higher recurrence, suggesting that more rigorous follow-up protocols might be necessary for male patients.
+- Recurrence risk increases with age. Greater monitoring and intervention should be prioritized for older individuals, even if their initial diagnosis appears mild.
 - Although most patients were non-smokers, smokers consistently showed poorer recovery and higher recurrence rates, hence smoking as a lifestyle factor may warrant tighter follow-up treatments or additional counseling during and after treatment.
+- Patients presenting with lymphatic spread (Adenopathy) or aggressive tumor types should be considered high-risk from the beginning, even before recurrence signs emerge.
 
 ## Conclusion
-- We were able to develop a predictive machine learning model for Differentiated Thyroid Cancer Recurrences using the KClustering integrated with Random Forest Classifier with tuned hyperparameters trained on Dataset X3 .
+- We were able to develop a predictive machine learning model for the Cancer Recurrences using KClustering integrated with Random Forest Classifier with tuned hyperparameters trained on Dataset X3.
 - Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98.95% eventually.
 
 ## What did we learn from this project?
