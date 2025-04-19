@@ -48,7 +48,7 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - Visualising and managing categorical data
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
 - Understanding and usage of Accuracy and Hyperparameters
-- Evaluation Metrics for KClustering method such as KMeans Inertia, Silhouette Score and Elbow Method(WCSS) 
+- Evaluation Metrics for KClustering such as KMeans Inertia, Silhouette Score and Elbow Method(WCSS) 
 
 ## Future Improvements
 - Improve data balance
@@ -62,8 +62,11 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence 
 - https://www.geeksforgeeks.org/random-forest-regression-in-python/
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
 - https://www.kaggle.com/datasets/joebeachcapital/differentiated-thyroid-cancer-recurrence
 - https://www.cancerresearchuk.org/about-cancer/thyroid-cancer/stages-types/types#:~:text=Differentiated%20thyroid%20cancer,follicular%20and%20oncocytic%20thyroid%20cancer.
 - https://www.mayoclinic.org/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
 - https://online.hbs.edu/blog/post/data-visualization-techniques
 - https://mode.com/blog/violin-plot-examples
+- https://youtu.be/gSQsFIMcA8A?si=lCa8Ys1Dn4RYBJhQ
+- https://youtu.be/gkXX4h3qYm4?si=Uc8ZzyC4fEvKwGNo
