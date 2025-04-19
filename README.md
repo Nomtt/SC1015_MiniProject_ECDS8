@@ -26,7 +26,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes up over 90% of all cases. A key challenge is its unpredictability. Despite treatment, up to 30% of patients face recurrence. Current risk assessments rely on physician experience and generalized clinical guidelines, which may miss individual-specific factors affecting recurrence.
 
 ### Problem Statement
-- __Are we able to predict recurrence of Thyroid Cancer based on individuals’ physical attributes?__
+- Are we able to predict recurrence of Thyroid Cancer based on individuals’ physical attributes?
   - Which model would be the best to predict it?
 
 ## Models Used
@@ -59,6 +59,6 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
   - With minimal tuning, the model can serve as a real-time tool to help clinicians identify high-risk patients—such as older males with aggressive tumors—and customize their follow-up plans .
 
 ## References
--https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence 
+- https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence 
 - https://www.geeksforgeeks.org/random-forest-regression-in-python/
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
