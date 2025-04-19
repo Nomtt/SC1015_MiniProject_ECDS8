@@ -68,5 +68,6 @@ Differentiated Thyroid Cancer (DTC), the most common thyroid cancer type, makes 
 - https://www.mayoclinic.org/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
 - https://online.hbs.edu/blog/post/data-visualization-techniques
 - https://mode.com/blog/violin-plot-examples
+- https://thyca.org/newly-diagnosed/glossary/
 - https://youtu.be/gSQsFIMcA8A?si=lCa8Ys1Dn4RYBJhQ
 - https://youtu.be/gkXX4h3qYm4?si=Uc8ZzyC4fEvKwGNo
