@@ -28,14 +28,14 @@ Differentiated Thyroid Cancer (DTC) is the most common thyroid cancer type which
 - Are we able to predict recurrence of Thyroid Cancer based on individuals’ physical attributes?
   - Which model would be the best to predict it?
  
-# Data Cleaning
+## Data Cleaning
 - Selected relevant columns like "Age","Treatment Response" etc. for Machine Learning
 - Simplified complex medical terminologies into more understandable phrases for better clarity.
   - e.g. Renamed columns like "T" and "Pathology" to "Tumor" and "Types of Thyroid Cancer" respectively.
 - One-hot encoded categorical variables to convert them into numerical values to make data compatible with our models.
   -  identified the number of distinct categories in each column and replaced them with integers.
  
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 Analysed the relationship between possible predictors with the target variable (recurrence).
 
 1. __Univariate Analysis__
@@ -46,31 +46,31 @@ Analysed the relationship between possible predictors with the target variable (
 2. __Bivariate Analysis__ 
 - Used __heatmap__ for comparisons between individual predictors (__Adenopathy & Tumor Types__) and recurrence and Treatment Response Outcomes.
 
-# Machine Learning
+## Machine Learning
 
-## Models Used
+### Models Used
 - Decision Tree Classifier
 - Random Forest Classifier
 - K-means clustering
 
-## Evaluation Metrics
+### Evaluation Metrics
 
-## Hyperparameter Tuning
+### Hyperparameter Tuning
 
-## K-clustering
+### K-clustering
 
-# Insights
+## Insights
 - Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
 - While more females were diagnosed overall, males experienced more severe complications and higher recurrence, suggesting that more rigorous follow-up protocols might be necessary for male patients.
 - Recurrence risk increases with age. Greater monitoring and intervention should be prioritized for older individuals, even if their initial diagnosis appears mild.
 - Although most patients were non-smokers, smokers consistently showed poorer recovery and higher recurrence rates, hence smoking as a lifestyle factor may warrant tighter follow-up treatments or additional counseling during and after treatment.
 - Patients presenting with lymphatic spread (Adenopathy) or aggressive tumor types should be considered high-risk from the beginning, even before recurrence signs emerge.
 
-# Conclusion
+## Conclusion
 - We were able to develop a predictive machine learning model for the Cancer Recurrences using KClustering integrated with Random Forest Classifier with tuned hyperparameters trained on Dataset X3.
 - Through iterative improvement from training 15 machine learning models, we successfully increased the accuracy of our model from as low as 66% at the beginning to 98.95% eventually.
 
-# What did we learn from this project?
+## What did we learn from this project?
 - Handling a medical dataset (Thyroid Cancer data) that includes a mix of numerical and complex categorical variables.
 - Visualising and finding relationships between different variables
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
@@ -78,7 +78,7 @@ Analysed the relationship between possible predictors with the target variable (
 - Understanding and usage of Accuracy and Hyperparameters
 - New evaluation Metrics for KClustering, for instance, KMeans Inertia, Silhouette Score and Elbow Methods(WCSS) 
 
-# Future Improvements
+## Future Improvements
 - Improve data balance
   -  While our model performed well, its predictive power could be further improved with more balanced datasets and additional clinical features like post-operative hormone levels.
 - Explore time-based models
@@ -86,7 +86,7 @@ Analysed the relationship between possible predictors with the target variable (
 - Embed model outputs into clinical settings
   - With minimal tuning, the model can serve as a real-time tool to help clinicians identify high-risk patients—such as older males with aggressive tumors—and customize their follow-up plans .
 
-# References
+## References
 - https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence 
 - https://www.geeksforgeeks.org/random-forest-regression-in-python/
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
