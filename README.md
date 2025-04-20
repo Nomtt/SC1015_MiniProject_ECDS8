@@ -54,17 +54,24 @@ Analysed the relationship between possible predictors with the target variable (
 - K-means clustering
 
 ### Evaluation Metrics
-- F1-Score - We used it for Random Forest Classifiers and it shows a balanced performance between precision and recall.
-- Weighted Average and Macro Average
-- Recall, Precision, Support and Accuracy
-- fnr, fpr, tnr and tpr
+- __TNR, TPR, FNR, and FPR__ – Classification performance metrics derived from the confusion matrix that describe how well a model distinguishes between positive and negative classes, capturing both correct and incorrect predictions.
+- __Recall, Precision, Support, and Accuracy__ – Related to the above metrics, these provide an overall summary of classification performance per class and across the dataset.
+- __Macro Average__ – Treats all classes equally, offering an unbiased view of model performance, especially useful in imbalanced datasets.
+- __Weighted Average__ – Accounts for the number of true instances (support) per class, giving a more realistic overall performance based on the dataset's actual class distribution.
+- __F1-Score__ – Used with our Random Forest Classifier to reflect a balanced trade-off between precision and recall, especially useful when both false positives and false negatives matter.
 
 ### Hyperparameter Tuning
-- Hyperparameters in Random Forest Classification are settings not learned from data but set before training the model.
-- By tuning them we were able to further modify accuracy, overfitting/underfitting and training time of our model.
+- __Hyperparameters__ in Random Forest Classification are settings that are not learned from data but set before training the model.
+- By tuning them, we can optimize accuracy, adjust overfitting and underfitting, and control training time of the model.
+- For example, some of our hyperparameters we set would be:
+    - __n_estimators = 1000:__ Increased the number of trees to improve model stability and reduce variance, though it increases training time.
+    - __criterion = "entropy":__ Chose entropy for splitting criteria (information gain), which can sometimes lead to more informative splits compared to the default Gini index.
+    - __max_depth = 14:__ Limited the depth of each tree to avoid overly complex models that could overfit the training data.
 
 ### K-clustering
-- 
+- We involved K-Means Clustering, not as a standalone classifier, but as a tool to enhance our predictive model.
+- With this integration, we were able to uncovef hidden patterns in the data, such as natural groupings, that might not be immediately obvious.
+- We identified the optimal number of clusters using illustration graphs of KMeans Inertia, Silhouette Score and Elbow Methods(WCSS). 
 
 ## Insights
 - Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
