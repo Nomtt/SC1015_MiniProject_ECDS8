@@ -72,7 +72,12 @@ Analysed the relationship between possible predictors with the target variable (
 ### K-clustering
 - We involved K-Means Clustering, not as a standalone classifier, but as a tool to enhance our predictive model.
 - With this integration, we were able to uncover hidden patterns in the data, such as natural groupings, that might not be immediately obvious.
-- We identified the optimal number of clusters using illustration graphs of __KMeans Inertia__, __Silhouette Score__ and __Elbow Methods(WCSS)__. 
+- We identified the optimal number of clusters as 3 using:
+    - __K-Intertia__ - Inertia (or within-cluster sum of squares, WCSS) measures the sum of squared distances between each point and its assigned cluster center.
+    - __Silhouette score__ measures how similar each point is to its own cluster compared to other clusters.
+      - It ranges from -1 (incorrect clustering) to +1 (well-separated clusters), with 0 meaning points are on the boundary of clusters.
+    - __The Elbow Method__ involves plotting the WCSS (Within-Cluster Sum of Squares) for different values of K (number of clusters).
+      - The "elbow" point, where the decrease in WCSS slows down significantly, suggests the ideal number of clusters, balancing simplicity and accuracy.
 
 ## Insights
 - Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
