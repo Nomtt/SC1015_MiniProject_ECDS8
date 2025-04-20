@@ -9,12 +9,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 5. [ML: Decision Tree Classification](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/94d41087e1d7ca026fdf5100471811b2efa495c5/decisionTreeRevised.ipynb)
 6. [ML: Random Forest Classification and K-Clustering](https://github.com/Nomtt/SC1015_MiniProject_ECDS8/blob/ca7b7bbdf3751c02822794d084e452e18548cf7f/randomForestKClustering.ipynb) 
 ## Contributors
-- Claire Chia Wan Ni (CLAI0011@e.ntu.edu.sg, @clairewanni ): 
+- Claire Chia Wan Ni (CLAI0011@e.ntu.edu.sg, U2430719H, @clairewanni ): 
   - Exploratory Data Analysis
   - Data Cleaning
   - Insights
   
-- Narmandakh Nomt (nomt001@e.ntu.edu.sg, @nomtt ):
+- Narmandakh Nomt (nomt001@e.ntu.edu.sg, U2430263A, @nomtt ):
   - Machine Learning
   - Data Splitting
   - Recommendations
