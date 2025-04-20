@@ -59,6 +59,7 @@ Analysed the relationship between possible predictors with the target variable (
 - __Macro Average__ – Treats all classes equally, offering an unbiased view of model performance, especially useful in imbalanced datasets.
 - __Weighted Average__ – Accounts for the number of true instances (support) per class, giving a more realistic overall performance based on the dataset's actual class distribution.
 - __F1-Score__ – Used with our Random Forest Classifier to reflect a balanced trade-off between precision and recall, especially useful when both false positives and false negatives matter.
+- __Importance Score__ - It helped us identify how much each predictor (feature) contributes to reducing impurity (e.g., entropy) or improving prediction accuracy within the Random Forest model.
 
 ### Hyperparameter Tuning
 - __Hyperparameters__ in Random Forest Classification are settings that are not learned from data but set before training the model.
