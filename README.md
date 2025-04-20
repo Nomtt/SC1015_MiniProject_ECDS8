@@ -70,8 +70,8 @@ Analysed the relationship between possible predictors with the target variable (
 
 ### K-clustering
 - We involved K-Means Clustering, not as a standalone classifier, but as a tool to enhance our predictive model.
-- With this integration, we were able to uncovef hidden patterns in the data, such as natural groupings, that might not be immediately obvious.
-- We identified the optimal number of clusters using illustration graphs of KMeans Inertia, Silhouette Score and Elbow Methods(WCSS). 
+- With this integration, we were able to uncover hidden patterns in the data, such as natural groupings, that might not be immediately obvious.
+- We identified the optimal number of clusters using illustration graphs of __KMeans Inertia__, __Silhouette Score__ and __Elbow Methods(WCSS)__. 
 
 ## Insights
 - Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
@@ -90,7 +90,7 @@ Analysed the relationship between possible predictors with the target variable (
 - Decision Tree Classification, Random Forest Classification (LEARNT), k-clustering (LEARNT)
 - Observed how adding more features improves accuracy but risks overfitting with 4 different models with increasing feature complexity (X, X2, X3, X4)
 - Understanding and usage of Accuracy and Hyperparameters
-- New evaluation Metrics for KClustering, for instance, KMeans Inertia, Silhouette Score and Elbow Methods(WCSS) 
+- New evaluation Metrics for our machine learning models.
 
 ## Future Improvements
 - Improve data balance
