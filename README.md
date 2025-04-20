@@ -54,10 +54,17 @@ Analysed the relationship between possible predictors with the target variable (
 - K-means clustering
 
 ### Evaluation Metrics
+- F1-Score - We used it for Random Forest Classifiers and it shows a balanced performance between precision and recall.
+- Weighted Average and Macro Average
+- Recall, Precision, Support and Accuracy
+- fnr, fpr, tnr and tpr
 
 ### Hyperparameter Tuning
+- Hyperparameters in Random Forest Classification are settings not learned from data but set before training the model.
+- By tuning them we were able to further modify accuracy, overfitting/underfitting and training time of our model.
 
 ### K-clustering
+- 
 
 ## Insights
 - Initial treatment response is the most influential factor in likelihood of recurrence. If some cancer cells survive the initial treatment, they can eventually grow and lead to a recurrence. Therefore, patients who had severe responses should be given rigorous follow-ups.
