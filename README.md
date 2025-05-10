@@ -99,7 +99,7 @@ Analysed the relationship between possible predictors with the target variable (
 - New evaluation Metrics for our machine learning models.
 
 ## Future Improvements
-- Improve data balance
+- Improve data granularity and balance:
   -  While our model performed well, its predictive power could be further improved with more balanced datasets and additional clinical features like post-operative hormone levels.
 - Explore time-based models
   - Since recurrence can happen years after treatment, future models could benefit from time-series analysis or longitudinal tracking to better capture recurrence timing.
